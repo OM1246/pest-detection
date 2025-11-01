@@ -1,6 +1,2 @@
-libgl1
-<<<<<<< HEAD
+﻿libgl1
 libglib2.0-0
-=======
-libglib2.0-0
->>>>>>> 9fd6ff277ef32c3f9bdae87760297836c1fbb363
