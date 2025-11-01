@@ -1,0 +1,4 @@
+from roboflow import Roboflow
+rf = Roboflow(api_key="Ccw29Pnhy0VLHTeIb3Ul")
+project = rf.workspace("puspak").project("plantdoc")
+dataset = project.version(2).download("yolov5")

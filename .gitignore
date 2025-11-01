@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+
+# Model files
+*.pt
+# YOLOv5 folder
+yolov5/
+# Python cache
+__pycache__/
+*.pyc
