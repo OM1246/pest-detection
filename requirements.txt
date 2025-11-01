@@ -1,11 +1,28 @@
-streamlit
-pillow
-numpy
-opencv-python
-torch
-torchvision
-ultralytics
-plotly
-pandas
-google-generativeai
-requests
+# Core Dependencies (Python 3.13 Compatible)
+streamlit>=1.35.0
+pillow>=10.3.0
+numpy>=1.26.0
+opencv-python>=4.9.0.80
+
+# PyTorch - Use latest version compatible with Python 3.13
+torch>=2.3.0
+torchvision>=0.18.0
+
+# YOLO Model
+ultralytics>=8.2.0
+
+# Data Visualization
+plotly>=5.18.0
+pandas>=2.1.0
+
+# AI Integration
+google-generativeai>=0.7.0
+
+# API Requests
+requests>=2.31.0
+
+# Additional dependencies
+protobuf>=4.25.0
+scipy>=1.11.0
+
+# Note: If you still face issues, consider using Python 3.11 or 3.12 instead of 3.13
