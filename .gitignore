@@ -2,7 +2,6 @@
 venv/
 
 # Model files
-*.pt
 # YOLOv5 folder
 yolov5/
 # Python cache
