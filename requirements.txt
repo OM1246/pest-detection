@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+=======
+# Streamlit Cloud Compatible - NO OpenCV!
+streamlit
+pillow
+numpy
+torch
+torchvision
+ultralytics
+plotly
+pandas
+google-generativeai
+requests
+protobuf
+>>>>>>> 9fd6ff277ef32c3f9bdae87760297836c1fbb363
