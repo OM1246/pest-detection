@@ -1,12 +1,12 @@
-streamlit==1.38.0
-pillow==10.4.0
-numpy==1.26.4
-opencv-python-headless==4.10.0.84
-torch==2.2.0
-torchvision==0.17.0
-ultralytics==8.2.103
-plotly==5.24.1
-pandas==2.2.3
-google-generativeai==0.8.3
-requests==2.32.3
-protobuf==5.28.3
+# Streamlit Cloud Compatible - NO OpenCV!
+streamlit
+pillow
+numpy
+torch
+torchvision
+ultralytics
+plotly
+pandas
+google-generativeai
+requests
+protobuf
