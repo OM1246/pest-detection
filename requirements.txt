@@ -10,3 +10,4 @@ pandas
 google-generativeai
 requests
 protobuf
+reportlab
